@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(138, 91, 136);
+    text-align: center;
+}
+
+h1 {
+    display: block;
+}
+
+nav {
+background-color: rgb(22, 8, 36);
+padding: 1.7rem;
+border-radius: 14rem;
+height: 3vh;
+}
+
+a {
+    background-color: blueviolet;
+    padding: 1rem;
+    border-radius: 5rem;
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 1.3rem;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+img {
+    width: 25rem;
+    border-radius: 1rem;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    }
+
+.right {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}

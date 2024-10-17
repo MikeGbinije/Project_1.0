@@ -1,0 +1,22 @@
+body {
+    background-image: url('../images/deku2.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no repeat;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+                                    }
+a {
+    background-color: burlywood;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+    font-size: 50px;
+}
+
+
